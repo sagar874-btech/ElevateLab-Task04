@@ -31,7 +31,3 @@ This project demonstrates converting a desktop-only HTML page into a mobile-frie
 - The sidebar and main area stack vertically on mobile.
 - Navigation adapts for mobile devices.
 - Images auto-resize for flexible display.
-
-## Author
-
-Your Name Here
